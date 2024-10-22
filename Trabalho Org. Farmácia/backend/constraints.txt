@@ -1,0 +1,4 @@
+# requirements.txt
+
+psycopg2==2.9.9
+tk==0.1.0
